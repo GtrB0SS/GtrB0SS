@@ -19,6 +19,16 @@ I am Alberto, a 22 year old computer science student, and enthusiast of web and 
 - 🛢: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white">
 - 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /> 
 
+## 🎯 Personal projects
+For several years I have developed various personal projects, some in my free time and others in hackathons, or as free themed class assignments. However, the most remarkable ones are some of the following:
+
+
+- **Web application for Helmantica Riders**: Web application composed of a frontend developed with Angular.js and a backend in javascript to learn these technologies.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/GtrB0SS/GtrB0SS/blob/master/project1.jpeg">
+</p>
+
+
 ## 📫 How to contact me
 <p align="center">
  <a href="https://github.com/GtrB0SS/GtrB0SS/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
